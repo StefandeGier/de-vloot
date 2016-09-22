@@ -1,0 +1,150 @@
+
+nav ul{
+padding:0px;
+margin:0px;
+background-size: 100%;
+background-image:url(header.jpg);
+background-repeat: no-repeat;
+display:block;
+overflow: hidden;
+list-style-type: none;
+font-size: 20px;
+float: top-left;
+height: 310px;
+width: 905px;
+
+
+}
+
+nav ul li{
+
+
+display: inline;
+margin: 10px;
+color: white;
+font-size: 30px;
+overflow: hidden;
+list-style-type: none;
+float: top-left;
+}
+
+li a:hover{
+background-color:grey;
+
+
+
+}
+
+li a{
+color: white;
+
+}
+
+
+p{
+margin-bottom: 130px;
+margin: 
+
+}
+
+h2{
+margin: 30px;
+
+
+
+}
+
+
+
+
+article{
+	font-size: 20px;
+	margin:10px;
+	padding: 0px;
+
+
+
+}
+
+body{
+margin-right: 500px;
+margin-left:500px;
+font-family: sans-serif;
+
+
+
+
+}
+
+.top-left{
+float:left;
+margin: 20px;
+}
+
+#leftbox{
+background-color: lightblue;
+width: 500px;
+height: 400px;
+position: absolute;
+top: 315px;
+left: 0px;
+}
+
+#rightbox{
+background-color: lightblue;
+width: 500px;
+height: 400px;
+position: absolute;
+top: 315px;
+right: 0px;
+
+
+}
+
+.vloot2{
+float: right;
+margin: 10px;
+
+}
+
+.vloot3{
+float: left;
+margin: 10px;
+
+}
+
+.vloot12{
+float: right;
+margin: 10px;
+
+}
+
+.vloot6{
+float: left;
+margin: 10px;
+}
+
+
+.vloot7{
+float: left;
+margin: 10px;
+}
+
+.vloot10{
+float:right;
+margin:10px;
+}
+
+.vloot9{
+float: left;
+margin: 10px;
+
+
+}
+
+.menur{
+margin: 10px;
+
+
+
+}
